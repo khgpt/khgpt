@@ -1,1 +1,2 @@
 vbscript
+second line
